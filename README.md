@@ -14,9 +14,9 @@ Data
 All the audio data are saved in a shared google drive file in Google Drive. The attached is the file of the recordings. 22 recordings are collected which the duration is about an hour long.
 
 
+[LIN3046_Recordings_1.zip](https://github.com/WestVirgina/LIN3046_Project_Group06/files/15337061/LIN3046_Recordings_1-20240516T145259Z-001.zip)
 
-[LIN3046_Recordings_2-20240516T145301Z-001.zip](https://github.com/WestVirgina/LIN3046_Project_Group06/files/15337058/LIN3046_Recordings_2-20240516T145301Z-001.zip)
-[LIN3046_Recordings_1-20240516T145259Z-001.zip](https://github.com/WestVirgina/LIN3046_Project_Group06/files/15337061/LIN3046_Recordings_1-20240516T145259Z-001.zip)
+[LIN3046_Recordings_2.zip](https://github.com/WestVirgina/LIN3046_Project_Group06/files/15337058/LIN3046_Recordings_2-20240516T145301Z-001.zip)
 
 
 
