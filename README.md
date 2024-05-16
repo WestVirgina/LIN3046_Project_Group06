@@ -16,6 +16,7 @@ Data
 
 
 Methodology
+
 Hour long audio data will be collected through direct messaging. Participants will be given a list of words that contained the ending syllable sounds of [t], [id] and [d]. 
 [Presentation1.pptx](https://github.com/WestVirgina/LIN3046_Project_Group06/files/15331262/Presentation1.pptx)
 
