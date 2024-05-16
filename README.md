@@ -15,6 +15,10 @@ All the audio data are saved in a shared google drive file in Google Drive. The 
 
 
 
+[LIN3046_Recordings_2-20240516T145301Z-001.zip](https://github.com/WestVirgina/LIN3046_Project_Group06/files/15337058/LIN3046_Recordings_2-20240516T145301Z-001.zip)
+[LIN3046_Recordings_1-20240516T145259Z-001.zip](https://github.com/WestVirgina/LIN3046_Project_Group06/files/15337061/LIN3046_Recordings_1-20240516T145259Z-001.zip)
+
+
 
 Methodology
 
