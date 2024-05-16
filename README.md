@@ -56,7 +56,7 @@ b) In order to ensure the audio was clear and not corrupt, we did the cleaning p
 
 
 
-c) After receiving the audio files, we put them into Google Drive. When it comes to analysis, we played each audio file one-by-one, and listened to how the participants pronounced the words. For the tags in the Google Sheet, we used the IPA to record the ending of the words. For example, if the word “helped” is pronounced correctly, we will write  <t>helped</t>. We just used the 3 IPA on the word list to differentiate the ending sound of the words pronounced by the students. If the words are pronounced completely wrong, then we use this tagset  <error>helped</error>. Finally, if we did not hear the word at all, then we would use this tagset  <INAUDIBLE><error>helped</error></INAUDIBLE>.
+c) After receiving the audio files, we put them into Google Drive. When it comes to analysis, we played each audio file one-by-one, and listened to how the participants pronounced the words. For the tags in the Google Sheet, we used the IPA to record the ending of the words. For example, if the word “helped” is pronounced correctly, we will write  <t> helped </t>. We just used the 3 IPA on the word list to differentiate the ending sound of the words pronounced by the students. If the words are pronounced completely wrong, then we use this tagset  <error> helped </error>. Finally, if we did not hear the word at all, then we would use this tagset  <INAUDIBLE> <error> helped </error> </INAUDIBLE>.
 
 
 
