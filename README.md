@@ -1,6 +1,6 @@
 # LIN3046_Project_Group06
 
-Introduction
+##Introduction
 
 
 Topic: Examining the common error in oral english of Hong Kong students: exploring the differences of /t/, /d/, and /id/
@@ -16,7 +16,7 @@ This research aims to identify the mistakes made by Hong Kong tertairy students 
 
 
 
-Data
+##Data
 
 All the audio data are saved in a shared google drive file in Google Drive. The attached is the file of the recordings. 22 recordings are collected which the duration is about an hour long.
 
@@ -33,13 +33,13 @@ The link below is the processed, cleaned data of the recordings.
 
 
 
-Methodology
+##Methodology
 
 Hour long audio data will be collected through direct messaging. Participants will be given a list of words that contained the ending syllable sounds of [t], [id] and [d]. 
 [wordlist.pptx](https://github.com/WestVirgina/LIN3046_Project_Group06/files/15331262/Presentation1.pptx)
 
 
-Contributors
+##Contributors
 
 
 
