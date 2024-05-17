@@ -12,6 +12,10 @@ Topic: Examining the common error in oral english of Hong Kong students: explori
 
 This research aims to identify the mistakes made by Hong Kong tertairy students in speaking english. There are differences in Cantonese and Englsih in terms of Phonetics and Phonology. It contributes to the errors made by Hong Kong students in speaking a second language like English. We will collect an hour long audio data to analyse the mistakes made by the students we have interviews. 
 
+We identify a trend where Hong Kong people do not know how to distinguish the three different types of –ed ending sounds. 
+In this project we asked students in different universities (excluding English major students) to read a list of words to see if they could differentiate the –ed ending sounds  Then, we analysed the data we collected from a collective hour-long recording.
+After we collected all the sample speech data we needed, we started to do the data cleaning.
+Then we will do the data analysis.
 
 
 
@@ -21,6 +25,17 @@ This research aims to identify the mistakes made by Hong Kong tertairy students 
 
 
 ## Data
+
+The interviewees were asked to read out the list of words we have provided. A total of 72 words and there is an equal number of different types of –ed ending sound.
+
+We collected and put our data into the shared Google Drive folder. We named each file systematically. 
+
+For example: 1. Name_School_Programme_Year
+
+![image](https://github.com/WestVirgina/LIN3046_Project_Group06/assets/157775248/df3f4411-a1da-4e7f-922c-dbf0ffece0fe)
+![image](https://github.com/WestVirgina/LIN3046_Project_Group06/assets/157775248/1a9479f1-5317-43b9-94d4-ad34afac4d9c)
+
+
 
 All the audio data are saved in a shared google drive file in Google Drive. The attached is the file of the recordings. 22 recordings are collected which the duration is about an hour long.
 
@@ -57,7 +72,22 @@ b) In order to ensure the audio was clear and not corrupt, we did the cleaning p
 
 
 
-c) After receiving the audio files, we put them into Google Drive. When it comes to analysis, we played each audio file one-by-one, and listened to how the participants pronounced the words. For the tags in the Google Sheet, we used the IPA to record the ending of the words. For example, if the word “helped” is pronounced correctly, we will write <t>helped</t>. We just used the 3 IPA on the word list to differentiate the ending sound of the words pronounced by the students. If the words are pronounced completely wrong, then we use this tagset <error>helped</error>. Finally, if we did not hear the word at all, then we would use this tagset <INAUDIBLE><error>helped</error></INAUDIBLE>.
+c) After receiving the audio files, we put them into Google Drive. When it comes to analysis, we played each audio file one-by-one, and listened to how the participants pronounced the words. For the tags in the Google Sheet, we used the IPA to record the ending of the words. For example, if the word “helped” is pronounced correctly, we will write ![Capture](https://github.com/WestVirgina/LIN3046_Project_Group06/assets/157775248/9291c9a0-47cf-42f7-8902-e9030a980b3e)
+. We just used the 3 IPA on the word list to differentiate the ending sound of the words pronounced by the students. If the words are pronounced completely wrong, then we use this tagset ![Capture1](https://github.com/WestVirgina/LIN3046_Project_Group06/assets/157775248/84527e23-bd38-4058-9337-14d2f09b1b0e)
+. Finally, if we did not hear the word at all, then we would use this tagset ![Capture2](https://github.com/WestVirgina/LIN3046_Project_Group06/assets/157775248/5afe1078-4a3b-4168-b85c-c6de60e361c2).
+
+
+d) Ethics
+
+All participants were 18 OR ABOVE
+
+All participants gave CONSENT
+
+All participants KNEW data will be further used
+
+All participants VOLUNTEERED to help out
+
+None of the participants were ENGLISH MAJOR students
 
 
 
