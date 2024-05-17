@@ -95,6 +95,19 @@ Hour long audio data will be collected through direct messaging. Participants wi
 [wordlist.pptx](https://github.com/WestVirgina/LIN3046_Project_Group06/files/15331262/Presentation1.pptx)
 
 
+## Discussions
+
+It is discovered that there are quite a number of mistakes noted in the recordings when we count the number of the wrong tagset “–” . 
+
+It is theorized that the interviewees are using the Cantonese variation to speak the vocab list instead of standard English. Apart from that, the majority of the interviewees used their mother tongue accent when speaking the word (I.E. Cantonese, Chinese, Hindi, etc) causing Mispronunciations. 
+
+In Cantonese variation, people tend to put the stress on the last stress and put the word ‘突‘ for the –ed ending sound instead of figuring out which –ed ending sound that is.
+
+In Hindi variation, due to the thick accent, all the words end the same way even though there is a clear difference.
+
+
+
+
 ## Contributors
 
 
