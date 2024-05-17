@@ -1,6 +1,6 @@
 # LIN3046_Project_Group06
 
-Topic: Examining the common error in oral english of Hong Kong students: exploring the differences of /t/, /d/, and /id/
+Topic: Examining the common error in oral english of Hong Kong students: exploring the pronunciation differences of /t/, /d/, and /id/.
 
 
 
@@ -13,7 +13,10 @@ Topic: Examining the common error in oral english of Hong Kong students: explori
 This research aims to identify the mistakes made by Hong Kong tertairy students in speaking english. There are differences in Cantonese and Englsih in terms of Phonetics and Phonology. It contributes to the errors made by Hong Kong students in speaking a second language like English. We will collect an hour long audio data to analyse the mistakes made by the students we have interviews. 
 
 We identify a trend where Hong Kong people do not know how to distinguish the three different types of –ed ending sounds. 
-In this project we asked students in different universities (excluding English major students) to read a list of words to see if they could differentiate the –ed ending sounds  Then, we analysed the data we collected from a collective hour-long recording.
+In this project we asked students in different universities (excluding English major students) to read a list of words to see if they could differentiate the –ed ending sounds.
+
+Then, we analysed the data we collected from a collective hour-long recording.
+
 After we collected all the sample speech data we needed, we started to do the data cleaning.
 Then we will do the data analysis.
 
