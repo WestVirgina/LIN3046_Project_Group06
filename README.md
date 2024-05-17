@@ -112,7 +112,7 @@ In Cantonese variation, people tend to put the stress on the last stress and put
 
 In Hindi variation, due to the thick accent, all the words end the same way even though there is a clear difference.
 
-For future directions, it is suggested that the oral difference of English of two genders can be explored. It allows us to investigate the issue of language and genders. What is the differencebetween men and women in speaking English. 
+For future directions, it is suggested that the oral difference of English of two genders can be explored. It allows us to investigate the issue of language and genders. What is the difference between men and women in speaking English. 
 
 Also, other languages can also be discovered like Cantonese and Mandarin from the Hong Kong people as Cantonese is their first language. It allows us to see the difference in generations when they use Cantonese.
 
