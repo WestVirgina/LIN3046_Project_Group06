@@ -33,7 +33,8 @@ All the audio data are saved in a shared google drive file in Google Drive. The 
 
 The link below is the processed, cleaned data of the recordings. 
 
-[LIN3046 Project.xlsx](https://github.com/WestVirgina/LIN3046_Project_Group06/files/15337093/LIN3046.Project.1.xlsx)
+[LIN3046 Project.xlsx](https://github.com/WestVirgina/LIN3046_Project_Group06/files/15344046/LIN3046.Project.2.xlsx)
+
 
 
 
