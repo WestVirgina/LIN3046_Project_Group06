@@ -55,7 +55,9 @@ The link below is the processed, cleaned data of the recordings.
 
 [LIN3046 Project.xlsx](https://github.com/WestVirgina/LIN3046_Project_Group06/files/15344046/LIN3046.Project.2.xlsx)
 
+Different columns and naming methods are used. Mistakes, tagset, inaudiable noises, overlapping, and pauses are the main focus when we cleaned the data. 
 
+Also, metadata is also listed. Utterance ID, name of the respondents, their genders, age nationality, L1, L2, education level, occupations and also place of residence when they do the recordings are listed in the Google Sheet.
 
 
 ## Methodology
