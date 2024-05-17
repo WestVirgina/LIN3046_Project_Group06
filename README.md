@@ -38,6 +38,8 @@ For example: 1. Name_School_Programme_Year
 ![image](https://github.com/WestVirgina/LIN3046_Project_Group06/assets/157775248/df3f4411-a1da-4e7f-922c-dbf0ffece0fe)
 ![image](https://github.com/WestVirgina/LIN3046_Project_Group06/assets/157775248/1a9479f1-5317-43b9-94d4-ad34afac4d9c)
 
+![image](https://github.com/WestVirgina/LIN3046_Project_Group06/assets/157775248/dbd9e15c-1047-4438-a66d-1ebff2256659)
+
 
 
 All the audio data are saved in a shared google drive file in Google Drive. The attached is the file of the recordings. 22 recordings are collected which the duration is about an hour long.
